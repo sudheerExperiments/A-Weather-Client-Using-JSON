@@ -33,9 +33,6 @@ I recommend to use anaconda library for deploying the project.
 * [Anaconda](https://www.anaconda.com/download/)
 * [Tk library](https://anaconda.org/anaconda/tk)
 * [Requests](https://anaconda.org/anaconda/requests)
-
-**Not mandatory** 
-
 * [Urllib3](https://anaconda.org/anaconda/urllib3)
 
 ### Features:
@@ -48,7 +45,7 @@ I recommend to use anaconda library for deploying the project.
 
 Run *GUi_design* using the command: `python GUI_design.py`
 
->After running the project a window will be displayed. Enter co-ordinates(Latitude and Longitude) to fetch information from **weather.gov** website.
+>The project displays a window to interact with server. Enter co-ordinates(Latitude and Longitude) to fetch information from **weather.gov** website.
 
 ### Additional Information:
 
